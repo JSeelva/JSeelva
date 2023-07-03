@@ -6,10 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-I am a beginner as a developer having recently learned SQL, C#, JavaScript, Angular from PRIMAVERA Academy. At this moment my goal is to find a team environment on which I can evolve as a developer.
-As a beginner I would appreciate a little guidance for my first professional experience as a developer in order to fulfill my drive to learn the specific technologies and tools your software business need.
- 
-My academic and professional background is Communication Design (print and digital) and I also have studied UxUi Design. So in my new career path, Front-End seems like a guilty option to me but also where I believe my learning curve could be shorter. That said, I'm ready to face challenges in the back-end or application software spectrum.
+I am junior as a developer having recently used SQL, C# and React professionally.
+I like challenges related to problem solving and user experience/ process efficiency improvement.
+
+One year ago I started working as a Junior Full Stack Developer on a project , where I developed my
+skills in SQL, C#, and React using the base libraries available. I also created and managed databases (tables, views, stored procedures, C# consoles to insert a process data) and adapted the API and FrontEnd of an internal portal which goal is presenting results mainly through dashboards that I created in Tableau.
+My academic and professional background is on Communication Design (print and digital) and I also have studied UxUi Design. 
 
 <!--
 - 🔭 I’m currently working on **Stock Management C# Application**
